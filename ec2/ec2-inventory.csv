@@ -1,0 +1,2 @@
+number,instance_id,instance_type,architecture,launch_time,private_ip_address
+1,i-02959e9b4d89f85ee,t2.micro,x86_64,2021-12-07,172.31.84.177
